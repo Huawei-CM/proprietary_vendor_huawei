@@ -70,9 +70,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/alel04/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:system/vendor/lib/libmmcamera_hdr_gb_lib.so \
     vendor/huawei/alel04/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
     vendor/huawei/alel04/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
-    vendor/huawei/alel04/proprietary/vendor/lib/libmmcamera_imx135.so:system/vendor/lib/libmmcamera_imx135.so \
-    vendor/huawei/alel04/proprietary/vendor/lib/libmmcamera_imx214.so:system/vendor/lib/libmmcamera_imx214.so \
-    vendor/huawei/alel04/proprietary/vendor/lib/libmmcamera_ov5648.so:system/vendor/lib/libmmcamera_ov5648.so \
+    vendor/huawei/alel04/proprietary/lib/libmmcamera_imx135.so:system/lib/libmmcamera_imx135.so \
+    vendor/huawei/alel04/proprietary/lib/libmmcamera_imx214.so:system/lib/libmmcamera_imx214.so \
+    vendor/huawei/alel04/proprietary/lib/libmmcamera_ov5648.so:system/lib/libmmcamera_ov5648.so \
     vendor/huawei/alel04/proprietary/vendor/lib/libmmcamera_sunny_imx214_eeprom.so:system/vendor/lib/libmmcamera_sunny_imx214_eeprom.so \
     vendor/huawei/alel04/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
     vendor/huawei/alel04/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
