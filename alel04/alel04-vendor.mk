@@ -16,12 +16,10 @@
 
 # Pick up overlay for features that depend on non-open-source files
 PRODUCT_PACKAGES += \
-    com.qualcomm.location
-
-PRODUCT_PACKAGES += \
+    com.qualcomm.location \
     qcrilmsgtunnel \
-    shutdownlistener \
-    TimeService
+    TimeService \
+	shutdownlistener
 
 PRODUCT_PACKAGES += \
     qcnvitems \
