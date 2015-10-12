@@ -19,7 +19,7 @@ PRODUCT_PACKAGES += \
     com.qualcomm.location \
     qcrilmsgtunnel \
     TimeService \
-	shutdownlistener
+    shutdownlistener
 
 PRODUCT_PACKAGES += \
     qcnvitems \
